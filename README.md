@@ -7,23 +7,28 @@ Passionate about **machine learning**, **ethical AI**, and bringing innovative i
 
 ## 🔍 About Me
 - I’m currently studying CS with a minor in Business.
-- Building projects like **Sparky Scribe**, an ethical writing assistant for students.
-- Interested in NLP, automation, and data-driven solutions.
+- Interested in AI, NLP, automation, and data-driven solutions.
 - I’m always looking to collaborate on open-source projects and contribute to the community.
 
 ---
 
 ## 📂 Featured Projects
 
-Here are a few projects I’m proud of. You can find more on my [repositories](https://github.com/nysajain?tab=repositories).
+Here are some of my favorite projects.  You can find more on my [repositories page](https://github.com/nysajain?tab=repositories).
 
-- **asu-ai-writing-assistant** – An AI-powered chatbot that guides students through the writing process without giving away answers. Uses Gemini and FastAPI.  
+- **asu-ai-writing-assistant** – AI‑powered chatbot guiding students through every step of the writing process. Built with FastAPI and Gemini.  
   [Repo ➔](https://github.com/nysajain/asu-ai-writing-assistant)
 
-- **email-automation-python** – A Python script that automates sending emails via Gmail’s SMTP server. Simple CLI prompts for recipient, subject, and body.  
+- **AIML-Project-1--Basic-Chatbot** – A conversational chatbot using the ChatterBot library. Includes memory of past interactions and context awareness.  
+  [Repo ➔](https://github.com/nysajain/AIML-Project-1--Basic-Chatbot)
+
+- **AIML-Project-2--CollegeQ-A-Chatbot** – Q&A chatbot for college admission questions. Trained on admission‑related data with context and error handling.  
+  [Repo ➔](https://github.com/nysajain/AIML-Project-2--CollegeQ-A-Chatbot)
+
+- **email-automation-python** – Automates sending emails via Gmail’s SMTP server from the command line.  
   [Repo ➔](https://github.com/nysajain/email-automation-python)
 
-- **gif-generator-python** – Generates animated GIFs from a sequence of images using Python. Customizable frame duration and looping options.  
+- **gif-generator-python** – Simple script to create animated GIFs from PNG images with adjustable frame durations.  
   [Repo ➔](https://github.com/nysajain/gif-generator-python)
 
 ---
@@ -32,7 +37,7 @@ Here are a few projects I’m proud of. You can find more on my [repositories](h
 
 I’m always happy to connect and discuss machine learning, AI, or collaboration opportunities:
 
-- **LinkedIn:** [https://www.linkedin.com/in/nysa-jain/](https://www.linkedin.com/in/nysa-jain/)
+- **LinkedIn:** [nysa-jain](https://www.linkedin.com/in/nysa-jain/)
 - **Email:** nysajain.NJ@gmail.com
 
 Feel free to reach out!
