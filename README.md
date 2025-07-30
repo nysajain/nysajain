@@ -32,7 +32,7 @@ Here are a few projects I’m proud of. You can find more on my [repositories](h
 
 I’m always happy to connect and discuss machine learning, AI, or collaboration opportunities:
 
-- **LinkedIn:** [(https://www.linkedin.com/in/nysa-jain/)]((https://www.linkedin.com/in/nysa-jain/))
+- **LinkedIn:** [https://www.linkedin.com/in/nysa-jain/](https://www.linkedin.com/in/nysa-jain/)
 - **Email:** nysajain.NJ@gmail.com
 
 Feel free to reach out!
